@@ -1,0 +1,13 @@
+.navigation-bar {
+    height: 10%;
+}
+
+.logo-image-container {
+    width: 10%;
+    /* height: 110%; */
+    height: 150%;
+}
+
+.logo-image {
+    object-fit: scale-down;
+}
